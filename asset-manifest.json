@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d069c4e2.css",
-    "main.js": "/react-gh-pages/static/js/main.61de22a2.js",
-    "static/js/787.5d5ea81f.chunk.js": "/react-gh-pages/static/js/787.5d5ea81f.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d069c4e2.css.map": "/react-gh-pages/static/css/main.d069c4e2.css.map",
-    "main.61de22a2.js.map": "/react-gh-pages/static/js/main.61de22a2.js.map",
-    "787.5d5ea81f.chunk.js.map": "/react-gh-pages/static/js/787.5d5ea81f.chunk.js.map"
+    "main.css": "/Movieappinreact/static/css/main.d069c4e2.css",
+    "main.js": "/Movieappinreact/static/js/main.613704a1.js",
+    "static/js/787.5d5ea81f.chunk.js": "/Movieappinreact/static/js/787.5d5ea81f.chunk.js",
+    "index.html": "/Movieappinreact/index.html",
+    "main.d069c4e2.css.map": "/Movieappinreact/static/css/main.d069c4e2.css.map",
+    "main.613704a1.js.map": "/Movieappinreact/static/js/main.613704a1.js.map",
+    "787.5d5ea81f.chunk.js.map": "/Movieappinreact/static/js/787.5d5ea81f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d069c4e2.css",
-    "static/js/main.61de22a2.js"
+    "static/js/main.613704a1.js"
   ]
 }
